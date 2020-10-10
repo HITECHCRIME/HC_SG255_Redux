@@ -8,7 +8,7 @@
 
 Description.
 
-> **Title:**  / **Featuring:** MOTHNODE
+> **Title:** Redux / **Featuring:** MOTHNODE
 
 > **Production:**  / **Lyrics:** MOTHNODE
 
